@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Illia Vovnenko.
-- 👀 I’m interested in developing highload systems.
-- 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ilyavovnenko@gmail.com or https://www.linkedin.com/in/illia-vovnenko
+🔹 Greetings, I'm Illia Vovnenko.
+🔹 As a developer, my passion lies in building and optimizing high-load systems.
+🔹 I'm currently expanding my skill set by delving into Golang.
+🔹 Should you wish to connect or collaborate, you can reach me via email at ilyavovnenko@gmail.com, or on LinkedIn at https://www.linkedin.com/in/illia-vovnenko.
 
 <!---
 ilyavovnenko/ilyavovnenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
